@@ -2,16 +2,14 @@
 """Loan Qualifier Application.
 
 This is a command line application to match applicants with qualifying loans.
-
-Example:
-    $ python app.py
 """
 import sys
+from tkinter.messagebox import YES
 import fire
 import questionary
 from pathlib import Path
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import load_csv, save_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -61,6 +59,8 @@ def get_applicant_info():
     return credit_score, debt, income, loan_amount, home_value
 
 
+qualifying_loans = []
+
 def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_value):
     """Determine which loans the user qualifies for.
 
@@ -89,17 +89,20 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     # Calculate loan to value ratio
     loan_to_value_ratio = calculate_loan_to_value_ratio(loan, home_value)
-    print(f"The loan to value ratio is {loan_to_value_ratio:.02f}.")
+    print(f"The loan to value ratio is {loan_to_value_ratio:.02f}")
 
     # Run qualification filters
     bank_data_filtered = filter_max_loan_size(loan, bank_data)
     bank_data_filtered = filter_credit_score(credit_score, bank_data_filtered)
     bank_data_filtered = filter_debt_to_income(monthly_debt_ratio, bank_data_filtered)
     bank_data_filtered = filter_loan_to_value(loan_to_value_ratio, bank_data_filtered)
+    #Append final final list of filtered loans to new variable
+    for loan in bank_data_filtered:
+        qualifying_loans.append(bank_data_filtered)
 
     print(f"Found {len(bank_data_filtered)} qualifying loans")
-
-    return bank_data_filtered
+   
+    return bank_data_filtered  
 
 
 def save_qualifying_loans(qualifying_loans):
@@ -108,8 +111,22 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
+    # Usability dialog for saving the CSV Files.
+    #qualifying_loans = bank_data_filtered()
+    if len.qualifying_loans <= 0:
+         sys.exit(f"Sorry, There are no qualifying loans to save")
+
+    action = questionary.select(
+        "Would you like to save the qualifying loans as a CSV file?",
+        choices=['yes', 'no']).ask()
+    
+    if action == 'yes':
+        new_csvpath = questionary.text("Enter path to choose save location (.csv):").ask()
+        return save_csv(new_csvpath)
+    
+    if action == 'no':
+         sys.exit(f"Thank you for using the Loan Qualifier App!")
+    return action
 
 
 def run():
