@@ -1,33 +1,85 @@
-# Project Title
+# Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This is a command line application to match applicants with qualifying loans. The application works by using loan criteria from various loan providers (provided by the user), asking the user a number of questions to evaluate their loan eligibility, and returning a list of qualifying loans with the chance to save them as a CSV file.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+### This project leverages python 3.7 with the following packages:
+
+* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entrypoint.
+
+* [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
+
+* [sys](https://docs.python.org/3/library/sys.html) - To exit the app
+
+* [pathlib](https://docs.python.org/3/library/pathlib.html) - To use file paths
+
+* [tkinter.messagebox](https://docs.python.org/3/library/tkinter.messagebox.html#module-tkinter.messagebox) - For yes or no user prompt
+
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Before running the application first install the following dependencies.
+
+**Python Fire**
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Fire
+
+```python
+  pip install fire
+```
+
+**Python Questionary**
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Questionary:
+
+```python
+  pip install questionary
+```
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+To use the loan qualifier application you must first clone the repository to your local machine:
+
+```python
+git clone <paste link here>
+```
+ Next you can run the **app.py** with:
+
+```python
+python app.py
+```   
+<br>
+
+When you launch the loan qualifier application you will be greeted with the following prompts.
+
+![Loan Qualifier Prompts](Images/Loan_qualifyer_save.png)
+
+<br>
+
+**NOTE** The app will exit if:
+
+- CSV path cannot be found
+- There are no loans to save
+- You do not want to save the qualifying loans
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Cole Frederick
+* fredec96@gmail.com
+* [Linkedin](www.linkedin.com/in/cole-frederick-085982b0)
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+Licensed under the 
+[MIT](https://github.com/fredec96/Module_2_Challenge/blob/main/LICENSE.md) License.
