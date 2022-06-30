@@ -59,8 +59,6 @@ def get_applicant_info():
     return credit_score, debt, income, loan_amount, home_value
 
 
-qualifying_loans = []
-
 def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_value):
     """Determine which loans the user qualifies for.
 
@@ -96,37 +94,38 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     bank_data_filtered = filter_credit_score(credit_score, bank_data_filtered)
     bank_data_filtered = filter_debt_to_income(monthly_debt_ratio, bank_data_filtered)
     bank_data_filtered = filter_loan_to_value(loan_to_value_ratio, bank_data_filtered)
-    #Append final final list of filtered loans to new variable
-    for loan in bank_data_filtered:
-        qualifying_loans.append(bank_data_filtered)
 
     print(f"Found {len(bank_data_filtered)} qualifying loans")
-   
-    return bank_data_filtered  
+
+    # Create list of fully filtered and qualified loans
+    qualifying_loans = bank_data_filtered
+
+    return qualifying_loans  
 
 
 def save_qualifying_loans(qualifying_loans):
-    """Saves the qualifying loans to a CSV file.
+    """Saves the qualifying loans to a CSV file, if there are qualifying loans to 
+        save and the user wants to save them.
 
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # Usability dialog for saving the CSV Files.
-    #qualifying_loans = bank_data_filtered()
-    if len.qualifying_loans <= 0:
+    if len(qualifying_loans) <= 0:
          sys.exit(f"Sorry, There are no qualifying loans to save")
+
 
     action = questionary.select(
         "Would you like to save the qualifying loans as a CSV file?",
-        choices=['yes', 'no']).ask()
+        choices=['Yes', 'No']).ask()
     
-    if action == 'yes':
-        new_csvpath = questionary.text("Enter path to choose save location (.csv):").ask()
-        return save_csv(new_csvpath)
+    if action == 'Yes':
+        new_csvpath = questionary.text("Choose save location by entering the folder path with the new file name (.csv):").ask()
+        return save_csv(new_csvpath, qualifying_loans)
     
-    if action == 'no':
+    if action == 'No':
          sys.exit(f"Thank you for using the Loan Qualifier App!")
-    return action
+   
 
 
 def run():

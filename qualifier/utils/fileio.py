@@ -29,14 +29,15 @@ def load_csv(csvpath):
             data.append(row)
     return data
 
+
 def save_csv(new_csvpath,qualifying_loans):
-    """Saves the CSV file from path provided.
+    """Writes a new CSV file created in the path provided.
 
     Args:
         csvpath (Path): The csv file path.
 
     Returns:
-        A 
+        A CSV file containing the qualifying loans.
 
     """
     with open(new_csvpath, "w") as csvfile:
@@ -47,25 +48,8 @@ def save_csv(new_csvpath,qualifying_loans):
         # Write the header to the CSV file
         csvwriter.writerow(header)
 
-        # Write the values of each dictionary inside of `qualifying_loans`
+        # Write each list inside of `qualifying_loans`
         # as a row in the CSV file.
-        for item in qualifying_loans:
-            csvwriter.writerow(item.values())
+        for row in qualifying_loans:
+            csvwriter.writerow(row)
 
-
-
-# Create a Path to a new CSV file
-#csvpath = Path("large_equity_rounds.csv")
-
-# Open the output CSV file path using `with open`
-#with open(csvpath, "w") as csvfile:
-    # Create a csvwriter
-    #csvwriter = csv.writer(csvfile, delimiter=",")
-
-    # Write the header to the CSV file
-    #csvwriter.writerow(header)
-
-    # Write the values of each dictionary inside of `big_raisers`
-    # as a row in the CSV file.
-    #for item in bank_data_filtered:
-        #csvwriter.writerow(item.values())
