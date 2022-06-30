@@ -1,0 +1,709 @@
+   50  cd ~
+   51  python hello.py
+   52  cd desktop
+   53  cd..
+   54  cd ..
+   55  python hello.py
+   56  cd desktop
+   57  python hello.py
+   58  cd ..
+   59  hello.py
+   60  ls
+   61  cd applications
+   62  python hello.py
+   63  python
+   64  python
+   65  cd applications
+   66  python hello.py
+   67  cd
+   68  python hello.py
+   69  cd ..
+   70  cd ..
+   71  cd /
+   72  python hello.py
+   73  cd 
+   74  python
+   75  python hello.py Allice
+   76  import sys
+   77  python
+   78  python
+   79  python
+   80  python
+   81  python
+   82   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.6.3/pythonFiles/lib/python/debugpy/launcher 58418 -- /Users/colefrederick/Desktop/Folders/Crpt/Blockchain\ A-Z/0.\ Introduction/blockchain.py 
+   83   cd /Users/colefrederick/Documents/GitHub/desktop-tutorial ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.6.3/pythonFiles/lib/python/debugpy/launcher 58427 -- /Users/colefrederick/Desktop/Folders/Crpt/Blockchain\ A-Z/0.\ Introduction/blockchain.py 
+   84   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.6.3/pythonFiles/lib/python/debugpy/launcher 58435 -- /Users/colefrederick/Desktop/Folders/Crpt/Blockchain\ A-Z/0.\ Introduction/blockchain.py 
+   85  cd ~/git
+   86  cd desktop
+   87  cd ~/git
+   88  git config --global user.name "ColeFrederick"
+   89  git config --global user.name
+   90  git config
+   91  git config --global user.email
+   92  cd git
+   93  git clone git@github.com:fredec96/codingdemo.git
+   94  open.
+   95  open .
+   96  cd codingdemo/
+   97  ls
+   98  ls
+   99  ls
+  100  cd
+  101  cd codingdemo/
+  102  cd desktop
+  103  cd codingdemo/
+  104  ls
+  105  git add -A
+  106  git commit -m "Added an index.htm file"
+  107  git push origin master
+  108  git push origin master
+  109  conda activate dev
+  110  jupyter lab
+  111  conda deactivate
+  112  conda init bash
+  113  conda --version
+  114  conda update conda
+  115  conda create -n dev python=3.7 anaconda
+  116  conda init bash
+  117  conda activate dev
+  118  conda deactivate dev
+  119  conda deactivate
+  120  hello.py
+  121  pwd
+  122  ls
+  123  cd columbia
+  124  cd desktop
+  125  ls
+  126  cd Columbia
+  127  mkdir FinTech-Workspace
+  128  ls
+  129  CD fintech_workspace
+  130  cd fintech-workspace
+  131  cd python_project
+  132  conda activate dev
+  133  python --version
+  134  code .
+  135  python hello_python.py
+  136  conda deactivate
+  137  conda activate dev
+  138  ls
+  139  python M1L3.py
+  140  conda deactivate
+  141  conda activate dev
+  142  python M1L3.py
+  143  conda deactivate
+  144  activvate conda dev
+  145  activate conda dev
+  146  ls
+  147  cd 01_Hello_Variable_World
+  148  cd solved
+  149  python  hello_variable_world.py
+  150  conda dev activate
+  151  original_price = 198.87
+  152  /usr/local/bin/python3 /Users/colefrederick/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  153  cd 01_hello_variable_world
+  154  cd unsolved
+  155  conda dev activate
+  156  conda env activate
+  157  cd ~
+  158  conda dev activate
+  159  cd 01 hello_variable_world
+  160  01_hello_variable_world
+  161  cd 01_hello_variable_world
+  162  cd unsolved
+  163  conda activate dev
+  164  python 01_hello_variable_world.py
+  165  code .
+  166  python 01_hello_variable_world.py
+  167  ls
+  168  python hello_variable_world.py
+  169  deactivate dev
+  170  conda deactivate
+  171  cd ~
+  172  /usr/local/bin/python3 /Users/colefrederick/02_Listing_Assets/Unsolved/listing_assets.py
+  173  /usr/local/bin/python3 /Users/colefrederick/02_Listing_Assets/Unsolved/listing_assets.py
+  174  /usr/local/bin/python3 /Users/colefrederick/02_Listing_Assets/Unsolved/listing_assets.py
+  175  /usr/local/bin/python3 /Users/colefrederick/02_Listing_Assets/Unsolved/listing_assets.py
+  176  /usr/local/bin/python3 /Users/colefrederick/02_Listing_Assets/Unsolved/listing_assets.py
+  177  cd 02_listing_assets
+  178  cd unsolved
+  179  conda activate dev
+  180  python listing_assets.py
+  181  number_ofLoans = len(bank_loans)
+  182  number_of_loans = len(bank_loans)
+  183  print(bank_loans)
+  184  code .
+  185  puthon listing_assets.py
+  186  python listing_assets.py
+  187  open .
+  188  nano [listing_assets.py]
+  189  nano listing_assets.py
+  190  conda deactivate
+  191  cd ~
+  192  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  193  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  194  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  195  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  196  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  197  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  198  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  199  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  200  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  201  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  202  /usr/local/bin/python3 /Users/colefrederick/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  203  cd 03_the_401k_shuffle
+  204  cd unsolved
+  205  python the_401k_shuffle.py
+  206  code .
+  207  cd ~
+  208   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58330 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  209   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58341 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  210   cd /Users/colefrederick/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58359 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  211   cd /Users/colefrederick/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58378 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  212   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58403 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  213   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58412 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  214   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58420 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  215   cd /Users/colefrederick/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58481 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  216   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58496 -- /Users/colefrederick/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  217   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58557 -- /Users/colefrederick/Class_1_Activities/03_Ins_Lists/Solved/lists.py 
+  218   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58611 -- /Users/colefrederick/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  219   cd /Users/colefrederick/Class_1_Activities ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58632 -- /Users/colefrederick/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  220   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58804 -- /Users/colefrederick/Class_1_Activities/05_Ins_Dictionaries/Solved/dicts.py 
+  221   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58813 -- /Users/colefrederick/Class_1_Activities/05_Ins_Dictionaries/Solved/dicts.py 
+  222  /usr/local/bin/python3 /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py
+  223   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61457 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  224   cd /Users/colefrederick/04_Conditional_Statement ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61470 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  225   cd /Users/colefrederick/04_Conditional_Statement ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61479 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  226   cd /Users/colefrederick/04_Conditional_Statement ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61492 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  227   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61504 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  228   cd /Users/colefrederick/04_Conditional_Statement ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61555 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  229   cd /Users/colefrederick/04_Conditional_Statement ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61563 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  230   cd /Users/colefrederick/04_Conditional_Statement ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61570 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  231   cd /Users/colefrederick/04_Conditional_Statement ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 61586 -- /Users/colefrederick/04_Conditional_Statement/Unsolved/conditional_statement.py 
+  232  /usr/local/bin/python3 /Users/colefrederick/10_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+  233  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  234  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  235  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  236  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  237  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  238  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  239  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  240  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  241  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  242   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 65228 -- /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py 
+  243  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  244  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  245   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 65243 -- /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py 
+  246  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  247  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  248  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  249  /usr/local/bin/python3 /Users/colefrederick/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  250   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51635 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  251   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51688 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  252   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51723 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  253  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/loan_analyzer.py"
+  254   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51884 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  255   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51908 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  256   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51920 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  257   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 51941 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  258   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52009 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  259   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52150 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  260   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52195 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  261   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52206 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  262   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52214 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  263   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52224 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  264   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52241 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  265   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52265 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  266   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52282 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  267   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52290 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  268   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52332 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  269   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52395 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  270   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52422 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  271   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52487 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  272   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52509 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  273   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52612 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  274   cd /Users/colefrederick/Module\ 1\ Challenge ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 52624 -- /Users/colefrederick/Module\ 1\ Challenge/loan_analyzer.py 
+  275   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53003 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  276  cd
+  277   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53064 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  278   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53297 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  279   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53307 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  280   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53314 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  281   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53325 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  282   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53360 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  283   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53404 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  284   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53438 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  285   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53481 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  286   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53491 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  287   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53511 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  288   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53520 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  289   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53529 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  290   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53538 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  291   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53602 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  292   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53614 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  293   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53646 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  294   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53717 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  295   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53727 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  296   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53870 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  297   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53909 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  298   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53930 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  299   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54040 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  300   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54052 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  301   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54060 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  302   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54074 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  303   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54085 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  304   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54307 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  305   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54359 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  306   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54479 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  307   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54521 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  308  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/main.py"
+  309  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/main.py"
+  310  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/main.py"
+  311  /usr/local/bin/python3 "/Users/colefrederick/Module 1/Class_2_Activities/08_Ins_Loops/Solved/loops.py"
+  312  top
+  313   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54530 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  314   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 54736 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  315   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55676 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  316   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55692 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  317   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55702 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  318   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55727 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  319   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55737 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  320   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55750 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  321   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55765 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  322   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55789 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  323   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 55838 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  324   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56008 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  325   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56044 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  326   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56062 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  327   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56304 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/main.py 
+  328   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56314 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  329   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56394 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  330   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56404 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  331   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56415 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  332   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56425 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  333   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56447 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  334   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56455 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  335   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 56467 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  336   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 57016 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  337   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 57030 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  338   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 57043 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  339   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 57096 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  340   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 57101 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  341   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 57123 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  342   cd /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 57131 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  343  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  344  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  345   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58091 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py 
+  346   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58021 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  347   cd /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58037 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  348   cd /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58054 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  349   cd /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58145 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  350   cd /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58151 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  351  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  352  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  353   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58166 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  354   cd /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58175 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  355   cd /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58182 -- /Users/colefrederick/Module\ 2/Course_content_activities/04_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py 
+  356  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_1_Activities 2/01_Stu_Python_Code_Drills/Solved/05-dicts-02/Solved/show_data.py"
+  357  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_1_Activities 2/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/show_data.py"
+  358  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_1_Activities 2/01_Stu_Python_Code_Drills/Solved/05-dicts-02/Solved/dicts-02.py"
+  359   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58900 -- /Users/colefrederick/Module\ 2/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  360   cd /Users/colefrederick/Module\ 2/Class_1_Activities\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58909 -- /Users/colefrederick/Module\ 2/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  361   cd /Users/colefrederick/Module\ 2/Class_1_Activities\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58915 -- /Users/colefrederick/Module\ 2/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  362   cd /Users/colefrederick/Module\ 2/Class_1_Activities\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58923 -- /Users/colefrederick/Module\ 2/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  363  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_1_Activities 2/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  364   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58930 -- /Users/colefrederick/Module\ 2/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  365   cd /Users/colefrederick/Module\ 2/Class_1_Activities\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58938 -- /Users/colefrederick/Module\ 2/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  366   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 58985 -- /Users/colefrederick/Module\ 2/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  367  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_1_Activities 2/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  368   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 59021 -- /Users/colefrederick/Module\ 2/Class_1_Activities\ 2/04_Stu_ATM_Application_Code/Unsolved/atm.py 
+  369   /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 59062 -- /Users/colefrederick/Module\ 2/Class_2_Activities\ 2/04_Stu_ATM_Application_Code/Solved/atm.py 
+  370   cd /Users/colefrederick/Module\ 2/Class_1_Activities\ 2 ; /usr/bin/env /usr/local/bin/python3 /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 59074 -- /Users/colefrederick/Module\ 2/Class_2_Activities\ 2/04_Stu_ATM_Application_Code/Solved/atm.py 
+  371  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_2_Activities 2/04_Stu_ATM_Application_Code/Solved/atm.py"
+  372  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_1_Activities 2/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  373  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_1_Activities 2/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  374  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_2_Activities 2/04_Stu_ATM_Application_Code/Solved/atm.py"
+  375  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_2_Activities 2/04_Stu_ATM_Application_Code/Solved/atm.py"
+  376  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_2_Activities 2/04_Stu_ATM_Application_Code/Solved/atm.py"
+  377  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_2_Activities 2/04_Stu_ATM_Application_Code/Solved/atm.py"
+  378  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_2_Activities 2/04_Stu_ATM_Application_Code/Solved/atm.py"
+  379  conda activate dev
+  380  pip -v
+  381  pip freeze
+  382  pip install fire
+  383  pip install questionary
+  384  conda deactivate
+  385  c
+  386  /usr/local/bin/python3 /Users/colefrederick/Downloads/04_Stu_ATM_Application_Code/Solved/atm.py
+  387  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_2_Activities 2/04_Stu_ATM_Application_Code/Solved/atm.py"
+  388  /usr/local/bin/python3 "/Users/colefrederick/Module 2/Class_2_Activities 2/04_Stu_ATM_Application_Code/Solved/atm.py"
+  389  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  390  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  391  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  392  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  393  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  394  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  395  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  396  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  397  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  398  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  399  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  400  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  401  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  402  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  403  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  404  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  405  pwd
+  406  /usr/local/bin/python3 Untitled-1
+  407  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  408  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  409  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  410  /usr/local/bin/python3 "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/main.py"
+  411  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  412  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  413  pip install fire
+  414  import fire
+  415  open fire
+  416  conda activate dev
+  417  pip install fire
+  418  conda deactivate
+  419  pip instal --target=d:/Users/colefrederick fire
+  420  pip install --target=d:/Users/colefrederick fire
+  421  pip install pathlib
+  422  pip install fire
+  423  pip install --target=d:/Users/colefrederick fire
+  424  --upgrade
+  425  upgrade
+  426  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  427  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  428  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  429  pip import fire
+  430  pip show fire
+  431  conda list numpy
+  432  conda list fire
+  433  /usr/local/bin/python3 "/Users/colefrederick/Module 2/python-fire-cli-skeleton/setup.py"
+  434  python setup.py install
+  435  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  436  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  437  /usr/local/bin/python3 /Users/colefrederick/cli.py
+  438  /usr/local/bin/python3 /Users/colefrederick/Module_2/python-fire-cli-skeleton/setup.py
+  439  python setup.py install
+  440  pip show fire
+  441  conda list pip
+  442  list pip
+  443  conda list fire
+  444  conda install fire-c conda_forge
+  445  python setup.py install
+  446  ls
+  447  cd Module 2
+  448  cd module 2
+  449  cd Library
+  450  cd...
+  451  cd ...
+  452  cd ..
+  453  cd Module_2
+  454  cd module_2
+  455  cd python-fire-cli-skeleton
+  456  python setup.py install
+  457  cd ~
+  458  /usr/local/bin/python3 /Users/colefrederick/Module_2/python-fire/setup.py
+  459  python setup.py install
+  460  /usr/local/bin/python3 /Users/colefrederick/Module_2/cli.py
+  461  python setup.py install
+  462  python --version
+  463  python2 --version
+  464  python3 --version
+  465  brew install python
+  466  python2 --version
+  467  python --version
+  468  python4 --version
+  469  python 3 --version
+  470  python3 --version
+  471  python setup.py install
+  472  cd python-fire-master
+  473  python setup.py install
+  474  conda activate dev
+  475  python setup.py install
+  476  conda deactivate
+  477  conda activate base
+  478  /Users/colefrederick/opt/anaconda3/bin/python Untitled-1
+  479  conda activate base
+  480  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/Course_content_activities/05_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  481  conda activate base
+  482  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/cli.py
+  483  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/cli.py
+  484  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/cli.py
+  485  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/cli.py
+  486  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/cli.py
+  487  conda activate base
+  488  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/dialog.py
+  489  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/dialog.py
+  490  conda activate base
+  491  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/Course_content_activities/06_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  492  python app.py --credit_score=750 --debt=5000 --income=20000
+  493  ./data/daily_rate_sheet.csv
+  494  conda activate base
+  495  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/Course_content_activities/06_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  496  python app.py --credit_score=750 --debt=5000 --income=20000
+  497  conda activate base
+  498  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_2/Course_content_activities/06_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  499  ls
+  500  cd module_2
+  501  ls
+  502  python cli.py
+  503  Nice! With the addition of the pants argument, you can now run the CLI to get the outfit for the day. To do that, we’ll run the following command: python cli.py --pants=True
+  504  python cli.py --pants=True
+  505  python app.py --credit_score=750
+  506  ls
+  507  cd course_content_activities
+  508  ls
+  509  cd 05_Adding_Fire_to_the_Loan_Qualifier_App
+  510  ls
+  511  cd unsolved
+  512  ls
+  513  python app.py --credit_score=750
+  514  cd ~
+  515  pip install questionary
+  516  git config --global user.name Cole Frederick
+  517  git config --global user.email 106632829+fredec96@users.noreply.github.com
+  518  git config --list
+  519  git config --global user.name Cole_Frederick
+  520  git config --list
+  521  git clone https://github.com/fredec96/Test.git
+  522  rm -R test
+  523  ls
+  524  cd module_2
+  525  ls
+  526  cd course_content_activities
+  527  git clone https://github.com/fredec96/Test.git
+  528   /usr/bin/env /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 50730 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  529  conda activate base
+  530  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  531   /usr/bin/env /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 50764 -- /Users/colefrederick/Module\ 1\ Challenge/Module\ 1\ clone/Module-1-Challege/Module\ 1\ Challenge/loan_analyzer.py 
+  532  conda activate base
+  533  conda activate base
+  534  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  535  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/main.py"
+  536  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  537  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  538  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/loan_analyzer.py"
+  539  conda activate base
+  540  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/main.py"
+  541  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module 1 Challenge/Module 1 clone/Module-1-Challege/Module 1 Challenge/main.py"
+  542  conda activate base
+  543  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  544  pwd
+  545  conda activate base
+  546  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  547  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  548  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  549  conda activate base
+  550  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  551  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  552  conda activate base
+  553  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/Instructor_solved_workspace/01_Ins_ATM_Application copy/Unsolved/atm/atm.py"
+  554  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/Instructor_solved_workspace/01_Ins_ATM_Application copy/Unsolved/atm/utils.py"
+  555  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/Instructor_solved_workspace/01_Ins_ATM_Application copy/Unsolved/atm/utils.py"
+  556  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/Instructor_solved_workspace/01_Ins_ATM_Application copy/Unsolved/atm/utils.py"
+  557  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/Instructor_solved_workspace/01_Ins_ATM_Application copy/Unsolved/atm/utils.py"
+  558  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/Instructor_solved_workspace/01_Ins_ATM_Application copy/Unsolved/atm/atm.py"
+  559  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/Instructor_solved_workspace/01_Ins_ATM_Application copy/Unsolved/atm/atm.py"
+  560  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/Instructor_solved_workspace/01_Ins_ATM_Application copy/Unsolved/atm/atm.py"
+  561  conda activate base
+  562  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions copy/Unsolved/atm/atm.py"
+  563  conda create -n atmdev python=3.7 anaconda
+  564  conda activate atmdev
+  565  pip install -r requirements.txt
+  566  ls
+  567  cd 02_Stu_Build_ATM_Functions copy
+  568  pip install -r requirements.txt
+  569  ls
+  570  ls
+  571  cd 02_Stu_Build_ATM_Functions copy
+  572  conda activate base
+  573  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  574  conda activate atmdev
+  575  ls
+  576  ls
+  577  cd 02_Stu_Build_ATM_Functions
+  578  pip install -r requirements.txt
+  579  ls
+  580  cd unsolved
+  581  pip install -r requirements.txt
+  582  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  583  conda activate base
+  584  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  585  conda activate atmdev
+  586  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  587  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  588  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  589  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  590  conda activate base
+  591  /Users/colefrederick/opt/anaconda3/bin/python "/Users/colefrederick/Module_2/Class_2_Activities 2/My_Workspace/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  592  conda activate atmdev
+  593  /Users/colefrederick/opt/anaconda3/envs/atmdev/bin/python /Users/colefrederick/Module_2/ATM/atm.py
+  594  /Users/colefrederick/opt/anaconda3/envs/atmdev/bin/python /Users/colefrederick/Module_2/ATM/utils.py
+  595  /Users/colefrederick/opt/anaconda3/envs/atmdev/bin/python /Users/colefrederick/Module_2/ATM/atm.py
+  596   /usr/bin/env /Users/colefrederick/opt/anaconda3/envs/atmdev/bin/python /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53224 -- /Users/colefrederick/Module_2/ATM/atm.py 
+  597   cd /Users/colefrederick/Module_2/ATM ; /usr/bin/env /Users/colefrederick/opt/anaconda3/envs/atmdev/bin/python /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53236 -- /Users/colefrederick/Module_2/ATM/atm.py 
+  598   cd /Users/colefrederick/Module_2/ATM ; /usr/bin/env /Users/colefrederick/opt/anaconda3/envs/atmdev/bin/python /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53245 -- /Users/colefrederick/Module_2/ATM/atm.py 
+  599   cd /Users/colefrederick/Module_2/ATM ; /usr/bin/env /Users/colefrederick/opt/anaconda3/envs/atmdev/bin/python /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 53271 -- /Users/colefrederick/Module_2/ATM/atm.py 
+  600  pwd
+  601  ls
+  602  cd Module_2
+  603  ls
+  604  git clone git@github.com:fredec96/ATM.git
+  605  ls
+  606  cd atm
+  607  ls
+  608  git status
+  609  git status
+  610  git add .
+  611  git status
+  612  git commit -m ' my atm app '
+  613  git status
+  614  git push
+  615  conda activate atmdev
+  616  conda list
+  617  ls
+  618  pip install -r requirements.txt
+  619  pip show fire
+  620  python atm.py
+  621  conda environment list
+  622  conda env list
+  623  git status
+  624  git add .
+  625  git status
+  626  git commit -m 'fixed utils path'
+  627  git push
+  628  git status
+  629  conda deactivate
+  630  conda activate dev
+  631  conda list pandas
+  632  conda list jupyterlab
+  633  conda deactivate
+  634  conda activate dev
+  635  conda activate dev
+  636  jupyter lab
+  637  conda deactivate
+  638  ls
+  639  cd module_2
+  640  ls
+  641  cd course_content_activities
+  642  ls
+  643  git init
+  644  git add .
+  645  git rm --cached Test
+  646  -f
+  647  git -f
+  648  git status
+  649  git rm --cached all
+  650  git status
+  651  cd ~
+  652  conda activate dev
+  653  python import_data_test.py
+  654  python import_data_test.py
+  655  python import_data_test.py
+  656  python import_data_test.py
+  657  python import_data_test.py
+  658  python import_data_test.py
+  659  python import_data_test.py
+  660  conda activate base
+  661  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_3/Course_Content_Activities/.ipynb_checkpoints/Import_Data_test-checkpoint.py
+  662  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_3/Course_Content_Activities/.ipynb_checkpoints/Import_Data_test-checkpoint.py
+  663  conda activate base
+  664   /usr/bin/env /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/.vscode/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/launcher 57126 -- /Users/colefrederick/Module_3/Course_Content_Activities/.ipynb_checkpoints/Import_Data_test-checkpoint.py 
+  665  conda activate dev
+  666  ls
+  667  cd module_2
+  668  ls
+  669  git clone git@github.com:fredec96/Module_2_Challenge.git
+  670  git status
+  671  cd module_2_challenge
+  672  git status
+  673  git add .
+  674  git status
+  675  git commit -m "Starter code added"
+  676  git status
+  677  git push
+  678  cd ~
+  679  ls
+  680  module_3
+  681  cd module_3
+  682  ls
+  683  cd Course_content_activities
+  684  conda activate dev
+  685  jupyter lab
+  686  conda deactivate
+  687  conda activate base
+  688  /Users/colefrederick/opt/anaconda3/bin/python /Users/colefrederick/Module_3/Course_Content_Activities/01_Import_Data/Import_Data_test.py
+  689  /Users/colefrederick/opt/anaconda3/envs/dev/bin/python /Users/colefrederick/Module_3/Course_Content_Activities/01_Import_Data/Import_Data_test.py
+  690  conda activate dev
+  691  /Users/colefrederick/opt/anaconda3/envs/dev/bin/python /Users/colefrederick/Module_3/Course_Content_Activities/01_Import_Data/Import_Data_test.py
+  692  conda activate dev
+  693  conda deactivate
+  694  cd module_3
+  695  cd course_content_activities
+  696  conda activate dev
+  697  jupyter lab
+  698  conda deactivate
+  699  cd module_3
+  700  cd course_content_activities
+  701  ls
+  702  cd 02_importing_the_vix
+  703  conda activate dev
+  704  jupyter lab
+  705  conda deactivate
+  706  cd ~
+  707  cd module_3
+  708  cd course_content_activities
+  709  conda activate dev
+  710  jupyter lab
+  711  conda deactivate
+  712  cd ..
+  713  ls
+  714  cd class_1_activities
+  715  conda activate dev
+  716  jupyter lab
+  717  conda deactivate
+  718  cd ~
+  719  cd Module_2
+  720  cd module_2_challenge
+  721  terminalhistory>50
+  722  history>50
+  723  history>50 terminal_history.txt
+  724  cd module_2
+  725  git clone git@github.com:fredec96/Module_2_Challenge.git
+  726  cd module_2_challenge
+  727  git status
+  728  git add .
+  729  git status
+  730  git commit -m 'Starter Code Added'
+  731  git push
+  732  git status
+  733  git status
+  734  git add .
+  735  git status
+  736  git commit -m 'unfinished work on save functions'
+  737  git push
+  738  git status
+  739  git add .
+  740  git status
+  741  git commit -m 'User story and acceptance criteria fulfilled'
+  742  git push
+  743  git status
+  744  git status
+  745  git status
+  746  git add Images
+  747  git status
+  748  git add .
+  749  git status
+  750  git commit -m'README finished, project complete'
+  751  git push
+  752  git pull
+  753  git status
+  754  git add .
+  755  git status
+  756  git commit -m'README finished, project complete'
+  757  git status
+  758  git push
